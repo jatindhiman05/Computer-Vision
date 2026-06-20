@@ -14,8 +14,20 @@ This repository contains my daily learning progress, notes, code examples, and p
 
 ---
 
-### Day 2 – TBD
+### Day 2 – Python Control Flow & Data Structures
 
-* To be updated.
+- Conditional statements (`if`, `elif`, `else`) and nested conditions.
+- Loops: `for`, `while`, `range()`, nested loops.
+- Loop control statements: `break`, `continue`, and `pass`.
+- Lists: indexing, slicing, methods, iteration, and list comprehensions.
+- Sets: unique elements, set operations, and membership testing.
+- Dictionaries: key-value pairs, methods, nested dictionaries, and comprehensions.
+- Tuples: indexing, packing/unpacking, and immutability.
+- Practical programs: calculator, sum of natural numbers, frequency counter, and unique word counter.
 
+---
+
+### Day 3 – TBD
+
+- To be updated.
 ---
